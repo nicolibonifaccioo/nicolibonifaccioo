@@ -1,16 +1,17 @@
-## Hi there 👋
+## #Bem-vindo! 🔮✨
 
-<!--
-**nicolibonifaccioo/nicolibonifaccioo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me chamo Nicoli, tenho 17 anos e sou estudante no [Alura](https://www.alura.com.br/?srsltid=AfmBOoo_EgLziWusfDG_mtj6H1xR3X7DgA5hk6SQYPkbCTIv6PEdp4Lp)
 
-Here are some ideas to get you started:
+- #🔭 Eu sou estudante de TI
+- #🌱 Cursando multifuncional de TI no [Senai](https://www.sp.senai.br)
+- #🫐 Sou artista nas horas vagas!
+- #🪐 Adoro astrologia
+- #💬 Em busca de conhecimento
+- #✈️ Amo viagens
+- #😄 Pronomes: Ela/dela 
+- #⚡ Fun fact: Meus filmes favoritos são Avatar, Coraline e Rio
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Você pode entrar em contato comigo 📫
+➡️ nicolibonifacio98@gmail.com
+
+![](https://media1.tenor.com/m/HJ8Nxo6FkI0AAAAC/broncos-hello.gif)
