@@ -15,7 +15,7 @@ Me chamo Nicoli, tenho 17 anos e sou estudante no [Alura](https://www.alura.com.
 ➡️ nicoli.bonifaccio@gmail.com 
 
 ## Um pouco mais sobre mim...👩‍💼
-![]([Currículo da Nicoli .pdf](https://github.com/user-attachments/files/16840642/Curriculo.da.Nicoli.pdf))
+[Currículo da Nicoli .pdf](https://github.com/user-attachments/files/16840642/Curriculo.da.Nicoli.pdf)
 
 
 ![](https://media1.tenor.com/m/HJ8Nxo6FkI0AAAAC/broncos-hello.gif)
