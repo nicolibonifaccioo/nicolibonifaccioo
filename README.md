@@ -12,6 +12,6 @@ Me chamo Nicoli, tenho 17 anos e sou estudante no [Alura](https://www.alura.com.
 - #⚡ Fun fact: Meus filmes favoritos são Avatar, Coraline e Rio
 
 ## Você pode entrar em contato comigo 📫
-➡️ 00001110239142SP@al.educacao.sp.gov.br
+➡️ nicoli.bonifaccio@gmail.com 
 
 ![](https://media1.tenor.com/m/HJ8Nxo6FkI0AAAAC/broncos-hello.gif)
